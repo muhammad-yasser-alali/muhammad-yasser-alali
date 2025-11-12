@@ -20,12 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadYasser&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYasser&layout=compact&theme=default)  
-
----
-
 ### 🌐 Let's Connect  
 💼 [GitHub Profile](https://github.com/MuhammadYasser)  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-al-hamad-90b925335)
